@@ -31,6 +31,7 @@ ssh-add --apple-use-keychain ~/.ssh/id_ed25519
 ```
 > Добавление нового SSH ключа в учетную запись
 
+![SSH-ключ](https://github.com/sharapova07/devops-lab-sharapova/blob/2e2f89f7240038bc3dd3b248aebfc688f894078c/lab0/screenshots/SSH-%D0%BA%D0%BB%D1%8E%D1%87.png)  
 **2. Создание репозитория с названием `devops-lab-sharapova`:**  
 **3. Клонирование созданного репозитория себе на компьютер при помощи команды `git clone`:**  
 **4. Создание файлов `README.md` и `.gitignor`e:**  
