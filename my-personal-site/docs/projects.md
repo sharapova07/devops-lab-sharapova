@@ -23,7 +23,7 @@
 
 *   **Цель:** научиться настраивать автоматизированные пайплайны для сборки Docker образов, их публикации в registry и автоматического деплоя при изменении кода
 *   **Технологии:** GitHub Actions, Docker Hub, Docker Buildx, GitHub Secrets  
-*   **Перейти к работе:** [Lab2](https://github.com/sharapova07/devops-lab-sharapova/blob/f95d3e1c59a93c228d5034ed57d89cfb190ff755/lab2/lab2_report.md)  
+*   **Перейти к работе:** [Lab2](https://github.com/sharapova07/devops-lab-sharapova/blob/3a61ce219c900e58b7808c4e6bfb9f6799ace927/lab2/lab2_report.md)  
 
 ---
 
