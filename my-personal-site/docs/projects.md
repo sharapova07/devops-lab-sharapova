@@ -1,37 +1,60 @@
-# Мои проекты
+# **Мои проекты**
 
 Здесь собраны лабораторные, над которыми я работала в ходе дисциплины
 
----
+<div class="grid cards" markdown>
 
-## Lab0: "Создание репозитория и настройка рабочего окружения"
+-   :material-git:{ .lg .middle } __Lab0: Создание репозитория и настройка окружения__
 
-*   **Цель:** научиться создавать репозитории, настраивать рабочее окружение и изучать основы работы с Git и GitHub  
-*   **Технологии:** Git, GitHub, SSH-протокол, Терминал  
-*   **Ссылка:** [Lab0](https://github.com/sharapova07/devops-lab-sharapova/blob/f95d3e1c59a93c228d5034ed57d89cfb190ff755/lab0/lab0_report.md)  
+    ---
 
----
+    **Цель**: научиться создавать репозитории, настраивать рабочее окружение и изучать основы работы с Git и GitHub
 
-## Lab1: "Основы работы с Docker"
+    **Технологии**: 
+    - :material-git: Git
+    - :material-github: GitHub
+    - :material-key: SSH-протокол
+    - :material-console: Терминал
 
-*   **Цель:** научиться работать с Docker: устанавливать Docker, создавать Dockerfile, собирать образы, запускать контейнеры и управлять ими
-*   **Технологии:** Docker, Dockerfile, Контейнеры, Volumes  
-*   **Ссылка:** [Lab1](https://github.com/sharapova07/devops-lab-sharapova/blob/f95d3e1c59a93c228d5034ed57d89cfb190ff755/lab1/lab1_report.md)  
+    [:octicons-arrow-right-24: Перейти к работе](https://github.com/yourusername/Lab0)
 
----
+-   :material-docker:{ .lg .middle } __Lab1: Основы работы с Docker__
 
-## Lab2: "CI/CD для Docker приложения"
+    ---
 
-*   **Цель:** научиться настраивать автоматизированные пайплайны для сборки Docker образов, их публикации в registry и автоматического деплоя при изменении кода
-*   **Технологии:** GitHub Actions, Docker Hub, Docker Buildx, GitHub Secrets  
-*   **Ссылка:** [Lab2](https://github.com/sharapova07/devops-lab-sharapova/blob/f95d3e1c59a93c228d5034ed57d89cfb190ff755/lab2/lab2_report.md)  
+    **Цель**: научиться работать с Docker: устанавливать Docker, создавать Dockerfile, собирать образы, запускать контейнеры
 
----
+    **Технологии**:
+    - :material-docker: Docker
+    - :material-docker: Docker Compose
+    - :material-console: Командная строка
 
-## Lab3: "Мониторинг с Prometheus и Grafana"
+    [:octicons-arrow-right-24: Перейти к работе](https://github.com/yourusername/Lab1)
 
-*   **Цель:** научиться настраивать локальную систему мониторинга, собирать метрики с помощью Prometheus и создавать дашборды в Grafana для визуализации данных
-*   **Технологии:** Prometheus, Grafana, Node Exporter, Docker сети  
-*   **Ссылка:** [Lab3](https://github.com/sharapova07/devops-lab-sharapova/blob/add89229ba727d1c4c939b4a561b338869cb777e/lab3/lab3_report.md)  
+-   :material-source-pull:{ .lg .middle } __Lab2: CI/CD для Docker приложения__
 
----
+    ---
+
+    **Цель**: настроить автоматический CI/CD пайплайн для сборки и публикации Docker образов
+
+    **Технологии**:
+    - :material-github: GitHub Actions
+    - :material-docker: Docker Hub
+    - :material-code-json: YAML
+
+    [:octicons-arrow-right-24: Перейти к работе](https://github.com/yourusername/Lab2)
+
+-   :material-chart-line:{ .lg .middle } __Lab3: Мониторинг с Prometheus и Grafana__
+
+    ---
+
+    **Цель**: настроить систему мониторинга с Prometheus для сбора метрик и Grafana для визуализации
+
+    **Технологии**:
+    - :material-chart-line: Prometheus
+    - :material-chart-bar: Grafana
+    - :material-server: Node Exporter
+
+    [:octicons-arrow-right-24: Перейти к работе](https://github.com/yourusername/Lab3)
+
+</div>
