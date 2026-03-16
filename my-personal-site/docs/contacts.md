@@ -1,38 +1,19 @@
-# Контакты для связи
+# Контакты для связи:
+**:material-email: Email:**
+```
+Sharapova.liza2014@yandex.ru
+```
+**:material-telegram: Telegram:**
+```
+@Liza_Sharapova
+```
+**:material-github: GitHub:** [репозиторий со всеми работами](https://github.com/sharapova07/devops-lab-sharapova.git)
 
-<div class="grid cards" markdown>
+## Напишите мне  
+Если у вас есть вопросы по:
+- лабораторным работам
+- DevOps технологиям
+- сотрудничеству
+- просто хотите поздороваться  
 
--   :material-email:{ .lg .middle } __Email__
-
-    ---
-
-    По учебным и рабочим вопросам
-    
-    **[sharapova07@example.com](mailto:sharapova07@example.com)**
-
-    ![Static Badge](https://img.shields.io/badge/Ответ-24%20часа-green)
-
--   :material-telegram:{ .lg .middle } __Telegram__
-
-    ---
-
-    Самый быстрый способ связаться
-    
-    **[@sharapova07](https://t.me/sharapova07)**
-
-    ![Static Badge](https://img.shields.io/badge/Ответ-обычно%20мгновенно-blue)
-
--   :material-github:{ .lg .middle } __GitHub__
-
-    ---
-
-    Мой код и проекты
-    
-    **[github.com/sharapova07](https://github.com/sharapova07)**
-
-    ![Static Badge](https://img.shields.io/badge/Репозитории-публичные-black)
-
-</div>
-
----
-
+Я всегда открыта к общению!
