@@ -1,7 +1,8 @@
 # Devops-lab Sharapova
 ФТМИ U4125: Шарапова Елизавета Игоревна  
 Почта: sharapova.liza2014@yandex.ru  
-Telagram: @Liza_Sharapova  
+Telagram: @Liza_Sharapova   
+Курсовая работа: [сайт-портфолио](http://127.0.0.1:8000/sharapova07/devops-lab-sharapova.git/) 
 
 ## План изучения Devops: 
 
