@@ -1,13 +1,13 @@
 # Контакты для связи:
-**:material-email: Email:**
+**:fontawesome-solid-envelope: Email**
 ```
 Sharapova.liza2014@yandex.ru
 ```
-**:material-telegram: Telegram:**
+**:fontawesome-brands-telegram: Telegram**
 ```
 @Liza_Sharapova
 ```
-**:material-github: GitHub:** [репозиторий со всеми работами](https://github.com/sharapova07/devops-lab-sharapova.git)
+**:fontawesome-brands-github: GitHub** [репозиторий со всеми работами](https://github.com/sharapova07/devops-lab-sharapova.git)
 
 ## Напишите мне  
 Если у вас есть вопросы по:
